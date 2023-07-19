@@ -2,6 +2,8 @@
 
 This is a template to start a clean notebook without needing to modify the environment for the other notebooks.
 
+Starting from 
+
 First, modify environment to add any libraries you need.  Currently, it only has:
 - pandas
 - numpy
