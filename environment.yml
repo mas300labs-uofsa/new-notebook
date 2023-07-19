@@ -1,0 +1,9 @@
+name: env 
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - matplotlib
+  - wget 
+  - pip 
