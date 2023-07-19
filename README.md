@@ -2,14 +2,19 @@
 
 This is a template to start a clean notebook without needing to modify the environment for the other notebooks.
 
-Starting from [the main page of this repo](https://github.com/mas300labs-uofsa/new-notebook), click the green button **Use this template** and choose **Create a new repository**.  For MAS labs, choose **Owner** as mas300labs-uofsa.  If you don't see mas300labs-uofsa in the drop-down menu, let me know so I can add you to the organization.
+These are instructions are specific to the mas300labs-uofsa organization.
+
+Starting from [the main page of this repo](https://github.com/mas300labs-uofsa/new-notebook):
+- click the green button **Use this template**
+- choose **Create a new repository**.
+- choose **Owner** as mas300labs-uofsa.
+- contact me if you don't see mas300labs-uofsa in the drop-down menu
 
 Starting from your new repo, modify the following:
 
 ## README.md
 Update the Binder button below:
 - change 'new-notebook' with whatever you called the repo for your new notebook.
-- if you are not in mas300labs-uofsa, then change that part of the url as well
 - remove the `code quotes` around the button. 
 ```
 Click on the Binder button to open the Notebook:
