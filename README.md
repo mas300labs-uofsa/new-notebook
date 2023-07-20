@@ -2,7 +2,7 @@
 
 This is a template to start a clean notebook without needing to modify the environment for the other notebooks.
 
-These instructions are specific to the mas300labs-uofsa organization.
+These instructions are specific to the mas300labs-uofsa organization.  (If you are not in mas300, ignore the 'Owner' parts.)
 
 Starting from [the main page of this repo](https://github.com/mas300labs-uofsa/new-notebook):
 - click the green button **Use this template**
