@@ -15,6 +15,7 @@ Starting from your new repo, modify the following:
 ## README.md
 Update the Binder button below:
 - change 'new-notebook' with whatever you called the repo for your new notebook
+- (if you are not in the org, change 'mas300labs-uofsa' to your username or org)
 - remove the `code quotes` around the button
 ```
 Click on the Binder button to open the Notebook:
